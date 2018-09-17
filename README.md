@@ -22,9 +22,10 @@ Please note the case is not yet modified for TurboEON so you will have to make s
 # Printable mounts are under mount folder.
 
 
-# Printing source *Make sure to get it printed in ABS.*
+# Printing source
 
 - [3dhubs](https://3dhubs.com)
+*Make sure to get it printed in ABS.*
 
 # Non-Printable Parts & Hardware
 
