@@ -4,6 +4,8 @@ Open Source DIY EON cooling solution for **EON Dashcam DevKit** from [Comma.ai](
 
 If you don't already have an EON Dashcam DevKit, you can buy one here: https://comma.ai/shop/products/eon-dashcam-devkit/
 
+Please note the case is not yet modified for TurboEON so you will have to make some changes by cutting the case using blade or something else.
+
 ![FrEON](https://i.imgur.com/OES5fBl.png)
 
 # Printable—Included Parts
