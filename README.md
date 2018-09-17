@@ -37,9 +37,9 @@ The only printed pieces not included in this repository are the various degree m
 
 - [3M GoPro Mount](https://www.amazon.com/dp/B00BUD6LPY) 
 
-# Credits for case
+# Credits
 
-This is fork of FrEON credits goes @chase https://github.com/ch4se/OpenFrEON
+This is fork of FrEON credits @chase https://github.com/ch4se/OpenFrEON
 
 
 
