@@ -17,9 +17,8 @@ If you don't already have an EON Dashcam DevKit, you can buy one here: https://c
 - FrEON Fan Cover Grill
 
 
-# Printable—not-included Parts
+# Printable mounts are under mount folder.
 
-The only printed pieces not included in this repository are the various degree mounting clips—these parts can be found on [Comma.ai's GitHub](https://github.com/commaai/neo/tree/master/case/eon). 
 
 # Printing source 
 
