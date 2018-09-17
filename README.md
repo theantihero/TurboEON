@@ -20,7 +20,7 @@ Please note the case is not yet modified for TurboEON so you will have to make s
 
 
 # Printable mounts are under mount folder.
--If you need helping with size of mount, Please note look at the following docs(https://docs.google.com/spreadsheets/d/1yDj2PqF-q9vcqpuMI9mnEmXTo-c056MQEaZUHmqGFnc/edit?usp=sharing)
+-[If you need helping with size of mount, Please note look at the following docs](https://docs.google.com/spreadsheets/d/1yDj2PqF-q9vcqpuMI9mnEmXTo-c056MQEaZUHmqGFnc/edit?usp=sharing)
 
 # Printing source
 
