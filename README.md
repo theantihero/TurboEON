@@ -25,7 +25,7 @@ Please note the case is not yet modified for TurboEON so you will have to make s
 # Printing source
 
 - [3dhubs](https://3dhubs.com)
-*Make sure to get it printed in ABS.*
+*Make sure to get it printed in ABS.* Case cost will be around $20+Shipping
 
 # Non-Printable Parts & Hardware
 
