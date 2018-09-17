@@ -22,7 +22,7 @@ Please note the case is not yet modified for TurboEON so you will have to make s
 # Printable mounts are under mount folder.
 
 
-# Printing source 
+# Printing source *Make sure to get it printed in ABS*
 
 - [3dhubs](https://3dhubs.com)
 
@@ -38,7 +38,7 @@ Please note the case is not yet modified for TurboEON so you will have to make s
 
 - [3M GoPro Mount](https://www.amazon.com/dp/B00BUD6LPY) 
 
-# Credits
+# Case Credits
 
 This is fork of FrEON credits @chase https://github.com/ch4se/OpenFrEON
 
