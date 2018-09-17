@@ -4,8 +4,6 @@ Open Source DIY EON cooling solution for **EON Dashcam DevKit** from [Comma.ai](
 
 If you don't already have an EON Dashcam DevKit, you can buy one here: https://comma.ai/shop/products/eon-dashcam-devkit/
 
-This is fork of FrEON credits goes @chase https://github.com/ch4se/OpenFrEON
-
 ![FrEON](https://i.imgur.com/OES5fBl.png)
 
 # Printable—Included Parts
@@ -41,7 +39,7 @@ The only printed pieces not included in this repository are the various degree m
 
 # Credits for case
 
-@Chase
+This is fork of FrEON credits goes @chase https://github.com/ch4se/OpenFrEON
 
 
 
